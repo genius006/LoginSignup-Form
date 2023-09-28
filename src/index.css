@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   height: 100vh;
-  background-color: #00b894;
+  /* background-color: #00b894; */
   background-image: url('https://i.pinimg.com/564x/e2/a5/20/e2a5200ca81ee9359add0cba9cafd758.jpg');
 }
 
